@@ -9,7 +9,7 @@
 #
 Name     : plasma-welcome
 Version  : 6.1.5
-Release  : 15
+Release  : 16
 URL      : https://download.kde.org/stable/plasma/6.1.5/plasma-welcome-6.1.5.tar.xz
 Source0  : https://download.kde.org/stable/plasma/6.1.5/plasma-welcome-6.1.5.tar.xz
 Source1  : https://download.kde.org/stable/plasma/6.1.5/plasma-welcome-6.1.5.tar.xz.sig
